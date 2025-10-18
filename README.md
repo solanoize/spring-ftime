@@ -4,7 +4,15 @@ A hands-on journey to explore how modern Java applications are built with the po
 
 It's my personal playground to understand how things like dependency injection, REST APIs and data persistence come together in a real-world setup.
 
-## Quick Start
+## Run Test
+
+If you need to test this app, you can run the following command:
+
+```
+mvn clean test
+```
+
+## Run Application
 
 Build the project:
 
@@ -23,6 +31,8 @@ Or:
 ```
 mvn spring-boot:run
 ```
+
+
 
 ## Feedback
 
